@@ -1,0 +1,170 @@
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CopyComplete
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\20-12-2022 - Roles v2\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CopyComplete
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Roles-Users\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CopyComplete
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - SeedRolesUsers\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CopyComplete
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CopyComplete
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\21-12-2022.3 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CopyComplete
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\22-12-2022 - Cart\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CopyComplete
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CopyComplete
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
+C:\Users\ozmen\GitHub\NBUY\Week_12\23-12-2022 - Order devam\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CopyComplete
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\26-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.AssemblyReference.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfoInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.AssemblyInfo.cs
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\refint\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.deps.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.runtimeconfig.json
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Data.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.csproj.CopyComplete
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ShoppingApp.Data.genruntimeconfig.cache
+C:\Users\SABAH\Documents\GitHub\NBUY\Week_13\27-12-2022\ShoppingApp\ShoppingApp.Data\obj\Debug\net7.0\ref\ShoppingApp.Data.dll

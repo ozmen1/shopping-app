@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Data\\ShoppingApp.Data.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Data\\ShoppingApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Data\\ShoppingApp.Data.csproj",
+        "projectName": "ShoppingApp.Data",
+        "projectPath": "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Data\\ShoppingApp.Data.csproj",
+        "packagesPath": "C:\\Users\\ozmen\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ozmen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Entity\\ShoppingApp.Entity.csproj": {
+                "projectPath": "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Entity\\ShoppingApp.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Entity\\ShoppingApp.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Entity\\ShoppingApp.Entity.csproj",
+        "projectName": "ShoppingApp.Entity",
+        "projectPath": "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Entity\\ShoppingApp.Entity.csproj",
+        "packagesPath": "C:\\Users\\ozmen\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ozmen\\GitHub\\NBUY\\Week_13\\27-12-2022\\ShoppingApp\\ShoppingApp.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ozmen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
